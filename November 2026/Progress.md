@@ -51,3 +51,25 @@
 - Implement execution logs and audit trail.
 - Record agent decisions, inputs, outputs, errors and execution time.
 - Perform further security and reliability testing.
+
+## 27 November 2026 – Logging and Audit Trail
+
+### Work Completed
+- Added logging functionality to the document summary agent.
+- Recorded document input and loading status.
+- Recorded summary generation and output.
+- Recorded execution time.
+- Added error logging.
+- Tested audit logs using agent.log.
+- Successfully pushed changes to GitHub.
+
+### Current Status
+- Step 1: Initial agent prototype ready.
+- Step 2: Document input working.
+- Step 3: Summary output working.
+- Step 4: Initial logging and audit trail prototype ready.
+
+### Next Tasks
+- Improve audit logging.
+- Test failure scenarios.
+- Perform security and reliability testing.
