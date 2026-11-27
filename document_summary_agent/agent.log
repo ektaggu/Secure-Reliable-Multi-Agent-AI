@@ -1,0 +1,10 @@
+2026-11-27 13:37:03,632 - INFO - Agent execution started
+2026-11-27 13:37:03,632 - INFO - Input document: document_summary_agent\sample.txt
+2026-11-27 13:37:03,632 - INFO - Document successfully loaded
+2026-11-27 13:37:13,764 - INFO - Document summary generated successfully
+2026-11-27 13:37:13,764 - INFO - Execution time: 10.13 seconds
+2026-11-27 13:37:13,768 - INFO - Summary output: The document discusses the importance of security and trust in Artificial Intelligence (AI) systems. It notes that AI agents can perform tasks and use tools, but may produce incorrect or unreliable information. To build reliable AI systems, security and trust are crucial.
+2026-11-27 13:37:13,768 - INFO - Agent execution completed successfully
+2026-11-27 13:44:17,366 - INFO - Agent execution started
+2026-11-27 13:44:17,366 - INFO - Input document: Enter document path: document_summary_agent\sample.txt
+2026-11-27 13:44:17,366 - ERROR - Document not found: Enter document path: document_summary_agent\sample.txt
