@@ -29,3 +29,25 @@
 ## 6. Next Steps
 - Review TAMAS evaluation scripts.
 - Begin development of a document-summary agent as instructed by the supervisor.
+
+## 27 November 2026 – Document Summary Agent
+
+### Work Completed
+- Created a basic Python document summary agent.
+- Implemented document input functionality.
+- Integrated Ollama Llama 3.2 for AI-powered summarization.
+- Tested the agent using sample.txt.
+- Added basic security instructions to the summarization prompt.
+- Tested with a document containing malicious instructions.
+- Successfully pushed project files to GitHub.
+
+### Current Status
+- Step 1: Initial agent prototype ready.
+- Step 2: Document input working.
+- Step 3: Summary output working.
+- Step 4: Logging, Tracing and Audit Trail – Pending.
+
+### Next Target
+- Implement execution logs and audit trail.
+- Record agent decisions, inputs, outputs, errors and execution time.
+- Perform further security and reliability testing.
